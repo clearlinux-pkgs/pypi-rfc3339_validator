@@ -4,7 +4,7 @@
 #
 Name     : pypi-rfc3339_validator
 Version  : 0.1.4
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/28/ea/a9387748e2d111c3c2b275ba970b735e04e15cdb1eb30693b6b5708c4dbd/rfc3339_validator-0.1.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/28/ea/a9387748e2d111c3c2b275ba970b735e04e15cdb1eb30693b6b5708c4dbd/rfc3339_validator-0.1.4.tar.gz
 Summary  : A pure python RFC3339 validator
